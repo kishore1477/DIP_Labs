@@ -1,4 +1,4 @@
-% Bilal 20202-27141
+% kishore 20202-27134
 % Lab 12
 % Task 01, 02, 03 HPF
 clc;
