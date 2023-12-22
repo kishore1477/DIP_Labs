@@ -18,3 +18,24 @@ task_1
 
 task_123
 
+%% @name confusion_matrix
+%  @associatedFile /MATLAB Drive/Skin-Cancer-Detection-System-using-Image-Processing/confusion_matrix.m
+%  @mostRecentlyActioned true
+%  @uniqueId 25FC57CB
+
+confusion_matrix
+
+%% @name task_123LPF
+%  @associatedFile /MATLAB Drive/lab12/task_123LPF.m
+%  @mostRecentlyActioned true
+%  @uniqueId 3D547F64
+
+task_123LPF
+
+%% @name task123HPF
+%  @associatedFile /MATLAB Drive/lab12/task123HPF.m
+%  @mostRecentlyActioned true
+%  @uniqueId 2B2EB164
+
+task123HPF
+

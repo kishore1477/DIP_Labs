@@ -27,9 +27,6 @@
    <File absPath="/MATLAB Drive/lab7" lastWrittenTime="1701006202942" name="task_1.m">
       <CodeFolds version="1.0"/>
    </File>
-   <File absPath="/MATLAB Drive/lab7" lastWrittenTime="1701071597812" name="task_5.m">
-      <CodeFolds version="1.0"/>
-   </File>
    <File absPath="/MATLAB Drive/lab7" lastWrittenTime="1701072421255" name="task_7.m">
       <CodeFolds version="1.0"/>
    </File>
@@ -67,6 +64,81 @@
       <CodeFolds version="1.0"/>
    </File>
    <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1701512278422" name="practice.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab7" lastWrittenTime="1701849385616" name="task_5.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/Skin-Cancer-Detection-System-using-Image-Processing" lastWrittenTime="1702919893061" name="main.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab12" lastWrittenTime="1703129898037" name="task123HPF.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703130379660" name="task_a.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703130575965" name="task_1a.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703131344667" name="task1b.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703131355811" name="task1c.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703131565479" name="task2a.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703131797357" name="task2b.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703132072780" name="task4.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab13" lastWrittenTime="1703132248893" name="task5.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab14" lastWrittenTime="1703132638345" name="task2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab14" lastWrittenTime="1703132834608" name="task3Laplacain.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab14" lastWrittenTime="1703133018356" name="task3laplacianGaussain.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/oppenEndedLab" lastWrittenTime="1703141775041" name="openEnded.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/project" lastWrittenTime="1703228951882" name="encode_qr.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/project" lastWrittenTime="1703229700574" name="qr.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/project" lastWrittenTime="1703231323738" name="generate_qr_code.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/project" lastWrittenTime="1703232544751" name="decode_qr_code.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/oppenEndedLab" lastWrittenTime="1703254813419" name="checkDuality.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab12" lastWrittenTime="1703255623661" name="peddedsize.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab12" lastWrittenTime="1703255802155" name="task_1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab12" lastWrittenTime="1703256406822" name="lpfilter.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab12" lastWrittenTime="1703256653223" name="dftuv.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/lab12" lastWrittenTime="1703256996266" name="task_123LPF.m">
       <CodeFolds version="1.0"/>
    </File>
 </Editor>
